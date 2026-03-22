@@ -197,17 +197,3 @@ The ML service provides:
 2. Update frontend components in `client/src/pages/`
 3. Update Chrome extension if needed
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
-
-
-
-**NewsVerify Pro** - Trust what you see. Verify what you share.
